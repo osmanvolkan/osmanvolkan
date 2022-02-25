@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osmanvolkan
 - 👀 I’m interested in technological advances
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,html,data science and machine learning
 - 💞️ I’m looking to collaborate on programming and data science
 - 📫 How to reach me osmanvolkan1982@gmail.com
 
